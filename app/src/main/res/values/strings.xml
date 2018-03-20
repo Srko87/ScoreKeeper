@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="fighterA">Fighter A</string>
+    <string name="fighterB">Fighter B</string>
+    <string name="punch">Punch + 1</string>
+    <string name="kick">Kick + 1</string>
+    <string name="takedown">Takedown + 1</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+
+
+
+</resources>
